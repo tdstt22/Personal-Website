@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
     "cross-env": "^5.2.0"
   }
 }
